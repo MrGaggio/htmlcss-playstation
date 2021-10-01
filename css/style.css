@@ -16,7 +16,10 @@ Nav a{
 }
 
 .sony_logo{
- 
     height: 50%;
-    
+}
+
+.jumbo{
+    width: 100%;
+    height: auto;
 }
