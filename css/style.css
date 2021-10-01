@@ -3,3 +3,20 @@
     margin: 0;
     padding: 0;
 }
+
+Nav a{
+    color: #090909;
+    font-weight: bold;
+    margin: 0 15px;
+}
+
+.top_header{
+    background-color: black;
+    height: 40px;
+}
+
+.sony_logo{
+ 
+    height: 50%;
+    
+}
