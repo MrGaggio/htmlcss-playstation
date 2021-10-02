@@ -50,11 +50,23 @@ Nav a{
     border-radius: 20px;
 }
 
+/* Utility */
+.btn{
+    border-radius: 20px;
+}
+
 /* PS5 */
 
+.ps5_consolle{
+    width: 100%;
+}
+
+.img_opacity{
+    width: 100%;
+    opacity: 0.6;
 
 
-
+}
 
 /* COLOR */
 
@@ -65,6 +77,11 @@ Nav a{
     font-size: 40px ;    
 }
 
+.grey_h2{
+    color: #787878;
+    font-size: larger;
+    font-weight: bold;
+}
 
 .blu_p{
     color: #2686D5;
@@ -78,5 +95,5 @@ Nav a{
 .grey_p{
     color: #787878;
     font-weight: bold;
-    font-size: larger;
+    
 }
