@@ -23,9 +23,6 @@ Nav a{
     height: 50%;
 }
 
-.jumbo_section, h1, p{
-    color: white;
-}
 .jumbo{
     height: auto;
     width: 100%;
@@ -43,7 +40,43 @@ Nav a{
     margin: 30px 0;
 }
 
+.cards{
+    margin-bottom: 100px;
+}
 
 #cards img{
     width: 100%;
+    height: auto;
+    border-radius: 20px;
+}
+
+/* PS5 */
+
+
+
+
+
+/* COLOR */
+
+
+.grey_h1{
+    color: #1F1F1F;
+    margin-bottom: 40px;
+    font-size: 40px ;    
+}
+
+
+.blu_p{
+    color: #2686D5;
+    font-weight: bold;
+    margin-bottom: 0;
+    text-transform: uppercase;
+    
+}
+
+
+.grey_p{
+    color: #787878;
+    font-weight: bold;
+    font-size: larger;
 }
