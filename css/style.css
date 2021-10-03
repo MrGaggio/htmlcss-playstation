@@ -49,6 +49,10 @@ Nav a{
     border-radius: 20px;
 }
 
+.jpg{
+    width: 100%;
+    height: auto;
+}
 /* Utility */
 .btn{
     border-radius: 20px;
@@ -110,6 +114,14 @@ Nav a{
 
 
 
+.play{
+    background-color: #BEBCBB;
+}
+
+
+.plus_logo{
+    width: 100%;
+}
 /* COLOR */
 
 .white_p{
