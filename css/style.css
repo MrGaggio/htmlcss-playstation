@@ -138,6 +138,28 @@ Nav a{
     padding-bottom: 50px;
 }
 
+/* PlaystationPlus */
+
+.playstatioplus{
+    background-color: #BEBCBB;
+    height: 732px;
+}
+
+.back_ps{
+    background-image: url(../img/ps-plus-april-monthly-games-featured-image-block.png);
+    height: 732px;
+    background-repeat: no-repeat;
+
+}
+
+.plus_container{
+    margin-left: 20px;
+}
+
+.plus_logo{
+    width: 60%;
+}
+
 
 
 /* COLOR */
@@ -177,4 +199,4 @@ Nav a{
     color: #787878;
     font-weight: bold;
     
-} */
+} 
