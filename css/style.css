@@ -5,7 +5,7 @@
 }
 
 body{
-    font-family: font-family: Arial, sans-serif;;
+    font-family: font-family: Arial, sans-serif;
 }
 
 Nav a{
@@ -23,15 +23,14 @@ Nav a{
     height: 50%;
 }
 
-.jumbo{
-    height: auto;
-    width: 100%;
-}
+
 
 .jumbo_container{
-    height: 650px;
+    height: 900px;
     background-image: url(../img/jumbo-bg.png);
     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 
@@ -74,12 +73,12 @@ Nav a{
 .grey_h1{
     color: #1F1F1F;
     margin-bottom: 40px;
-    font-size: 40px ;    
+    font-size: 60px ;    
 }
 
 .grey_h2{
     color: #787878;
-    font-size: larger;
+    font-size: 25px;
     font-weight: bold;
 }
 
