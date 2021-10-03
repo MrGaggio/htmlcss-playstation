@@ -6,6 +6,7 @@
 
 body{
     font-family: arial, sans-serif;
+    padding: 0 20px;
 }
 
 Nav a{
@@ -96,6 +97,7 @@ Nav a{
 #it_take_two p{
     padding-top: 40px;
     padding-bottom: 30px;
+    
     color: white;
 }
 
@@ -104,6 +106,7 @@ Nav a{
 #nuove_uscite img{
     width: 100%;
     height: auto;
+    padding: 0 20px;
     border-radius: 20px;
 }
 
@@ -159,4 +162,4 @@ Nav a{
     color: #787878;
     font-weight: bold;
     
-}
+} */
