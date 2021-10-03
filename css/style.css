@@ -5,7 +5,7 @@
 }
 
 body{
-    font-family: font-family: Arial, sans-serif;
+    font-family: arial, sans-serif;
 }
 
 Nav a{
@@ -26,7 +26,7 @@ Nav a{
 
 
 .jumbo_container{
-    height: 900px;
+    height: 800px;
     background-image: url(../img/jumbo-bg.png);
     background-position: center;
     background-repeat: no-repeat;
@@ -54,6 +54,12 @@ Nav a{
     border-radius: 20px;
 }
 
+.margin_left{
+    padding-left: 30px;
+    margin-top: 100px;
+    padding-top: 100px;
+}
+
 /* PS5 */
 
 .ps5_consolle{
@@ -63,10 +69,34 @@ Nav a{
 .img_opacity{
     width: 100%;
     opacity: 0.6;
-
-
 }
 
+/* IT TAKES TWO */
+
+.jumbo_take2{
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    height: 800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.take2_banner{
+    width: 80%;
+}
+
+#it_take_two h2{
+    padding-top: 40px;
+    color: white;
+    font-size: 40px;
+}
+
+#it_take_two p{
+    padding-top: 40px;
+    padding-bottom: 30px;
+    color: white;
+   
+}
 /* COLOR */
 
 
