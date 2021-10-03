@@ -125,6 +125,21 @@ Nav a{
 .plus_logo{
     width: 100%;
 }
+
+
+/* ESPLORA */
+
+.esplora{
+    padding: 50px 0;
+}
+
+.esplora_p{
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+
+
 /* COLOR */
 
 .white_p{
