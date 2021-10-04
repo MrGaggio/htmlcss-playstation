@@ -6,6 +6,8 @@
 
 body{
     font-family: arial, sans-serif;
+    overflow-y: auto;
+   
 }
 
 .site_header{
@@ -186,6 +188,13 @@ Nav a{
 
 /* FOOTER */
 
+.site_footer{
+    background-color: #00439C;
+    height: 1000px;
+    color: white;
+    padding-left: 50px;
+    padding-top: 100px;
+}
 
 
 
