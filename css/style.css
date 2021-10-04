@@ -157,10 +157,7 @@ Nav a{
     height: 100%;
 }
 
-
-
-/*PlaystatioNow */
-
+/* playstationeNow */
 .now_container{
     padding-left: 50px;
 }
@@ -168,6 +165,29 @@ Nav a{
 .color_bgblu{
     background-color: #161C3B;
 }
+
+
+/*Social */
+
+#social img{
+    width: 100%;
+}
+
+#social h3{
+    font-size: 80px;
+    font-weight: 500;
+    padding: 100px 0;
+}
+
+.youtube{
+    margin-bottom: 100px;
+}
+
+
+
+
+
+
 /* COLOR */
 
 .white_p{
