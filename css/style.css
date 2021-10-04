@@ -202,6 +202,22 @@ Nav a{
     list-style-type: none;
 }
 
+.site_footer li{
+    line-height: 40px;
+    font-stretch: extra-expanded;
+    font-weight: 500;
+    font-size: 22px;
+}
+.sony_logo{
+    width: 100%;
+}
+
+.p_footer{
+    font-size: 25px;
+    font-weight: 500;
+    padding-top: 50px;
+    font-stretch: extra-expanded;
+}
 /* COLOR */
 
 .white_p{
