@@ -88,12 +88,12 @@ Nav a{
     background-repeat: no-repeat;
     background-size: cover;
 }
-.take2_row{
+.take2{
     padding-left: 50px;
 }
 .take2_banner{
     padding-top: 200px;
-    width: 70%;
+    width: 100%;
 }
 
 #it_take_two h2{
@@ -105,7 +105,6 @@ Nav a{
 #it_take_two p{
     padding-top: 40px;
     padding-bottom: 30px;
-    
     color: white;
 }
 
@@ -154,6 +153,9 @@ Nav a{
     padding: 50px 0;
 }
 
+.psplus_logo{
+    width: 100%;
+}
 .color{
     background-color: #BEBCBB;
     height: 100%;
@@ -196,7 +198,9 @@ Nav a{
     padding-top: 100px;
 }
 
-
+.site_footer ul{
+    list-style-type: none;
+}
 
 /* COLOR */
 
