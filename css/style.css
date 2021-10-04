@@ -6,7 +6,6 @@
 
 body{
     font-family: arial, sans-serif;
-    padding: 0 20px;
 }
 
 .site_header{
@@ -147,17 +146,18 @@ Nav a{
 
 /* PlaystationPlus */
 
-.playstatioplus{
-    background-color: #BEBCBB;
-    height: 732px;
-}
+
 
 
 .plus_container{
     margin-left: 20px;
+    padding: 50px 0;
 }
 
-
+.color{
+    background-color: #BEBCBB;
+    height: 100%;
+}
 
 
 /* COLOR */
